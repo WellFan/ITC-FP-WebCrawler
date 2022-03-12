@@ -15,6 +15,8 @@ Please run the code on window10.
 ## Contribution
 | Contributor | Department | Student Id | Contribution                          |
 | ----------- | ---------- | ---------- | ------------------------------------- |
-| 王繹喆      | 資工一     | B08902120  | managed the progress of the project   |
-| 楊淳竣      | 資工一     | B08902137  | develope the crawler program          |
-| 樊惟祐      | 物理二     | B06202023  | control github commits                |
+| 樊惟祐      | 物理二     | B06202023  | managed github commits                |
+| 楊淳竣      | 資工一     | B08902137  | developed the crawler program         |
+| 王繹喆      | 資工一     | B08902120  | managed the progress of each tasks    |
+
+
