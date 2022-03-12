@@ -1,15 +1,20 @@
-# ntu_crawler_hw
-crawler
+# ITC-FP-WebCrawler
 
-Team Member
-B06202023 物理二 樊惟祐
-B08902137 資工一 楊淳竣
-B08902120 資工一 王繹喆
+This is the final project of Introduction-to-Computer-Science course (CSIE1000, Fall 2019) from National Taiwan University.
 
-Environment
-win10@PC
+This projet aims to develope a basic web crawler program to extract data from general website such as the homepage of NTUCSIE.
 
-Contribution
-樊惟祐 github control
-楊淳竣 crawler program
-王繹喆 check progress
+Please refers to [homework spec](./hw_spec.pdf) or check TA's repo ([link](https://github.com/kaikai4n/ItC-python-hw-sample-code)) for project specification.
+
+## Submission Date: 
+Fall 2019
+
+## Environment Setup
+Please run the code on window10.
+
+## Contribution
+| Contributor | Department | Student Id | Contribution                          |
+| ----------- | ---------- | ---------- | ------------------------------------- |
+| 王繹喆      | 資工一     | B08902120  | managed the progress of the project   |
+| 楊淳竣      | 資工一     | B08902137  | develope the crawler program          |
+| 樊惟祐      | 物理二     | B06202023  | control github commits                |
