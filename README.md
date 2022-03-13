@@ -1,5 +1,8 @@
 # ITC-FP-WebCrawler
 
+## Submission Date: 
+Fall 2019
+
 ## Overview
 This is the final project of Introduction-to-Computer-Science course (CSIE1000, Fall 2019) from National Taiwan University.
 
@@ -7,11 +10,17 @@ In this project, we develope a basic program to crawl data from the news page of
 
 Please refers to [homework spec](./hw_spec.pdf) or check TA's repo ([link](https://github.com/kaikai4n/ItC-python-hw-sample-code)) for project specification.
 
-## Submission Date: 
-Fall 2019
-
 ## Environment Setup
 Please run the code on window10.
+
+## Usage
+```sh
+# input format
+python main.py --start-date <Year>-<Month>-<Date> --end-date <Year>-<Month>-<Date>
+# example
+Python main.py --start-date 2022-02-20 --end-date 2022-03-10
+```
+The default output file is `output.csv`.
 
 ## Program Explanation
 
